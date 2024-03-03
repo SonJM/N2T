@@ -1,6 +1,7 @@
 아래 블로그에 사용법을 따로 정리해 놓았습니다. 
 Readme나 블로그 둘 중 아무거나 참고하시면 될 거 같습니다.
-![Blog](https://blisle.tistory.com/44)
+<br/>
+[SonJM's Blog](https://blisle.tistory.com/44)
 
 # 기능
 
